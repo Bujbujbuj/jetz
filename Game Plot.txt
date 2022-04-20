@@ -4,7 +4,7 @@ Pilot (Betz aka Jetz) needs to decide whether to look for his jet with supplies 
 
 option one -Pilot follows a stream to a cave in order to keep warmth.
 
-option two - Pilot tries to look for jet but deals with extreme cold
+option two - Pilot tries to look for jet but deals with extreme cold weather possibly supplies destroyed but can be safe
 
  By the knowledge of the character, he/she creates a makeshift tent out of sticks and branches from trees in cave. option 1
 
@@ -15,7 +15,5 @@ Character is given food bar and health bar. Bars will deplete based on difficult
 
 Total food bars - 10   Total health bar - 10 
 
-plants - regen 0.5 bar
-meat raw - 2 and/or potentially cause sickness that will deplete health every 10 second with knocked 0.5 bars.
-meat cooked - 3.5 bars 
-dirt - sickness and/or 0.1 bar
+food - up 2 bars
+health bar regen from food 0.5 bars up every 2 seconds
