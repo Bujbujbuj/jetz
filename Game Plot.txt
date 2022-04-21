@@ -15,5 +15,8 @@ Character is given food bar and health bar. Bars will deplete based on difficult
 
 Total food bars - 10   Total health bar - 10 
 
-food - up 2 bars
-health bar regen from food 0.5 bars up every 2 seconds
+food - up +2 bars
+
+Win: array has to equal - array [5]=(1,2,2,1,1) - - winner creates fire to signal jetz - OPTION 1 is ALWAYS WIN
+
+Losing aka death - array [3]=(2,1,1,2,2) - loser is the one who looks for the jet but it was destroyed dies from cold - OPTION 2 is ALWAYS LOSS
