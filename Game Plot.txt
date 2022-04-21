@@ -40,3 +40,9 @@ if 2: DEAD
 
 take player2:
 if 1: DEAD
+
+
+Story Stages and Options:
+Stage 1 option 1:
+Stage 1 option 2:
+Stage 1 option 3:
