@@ -6,6 +6,8 @@ option one -Pilot follows a stream to a cave in order to keep warmth.
 
 option two - Pilot tries to look for jet but deals with extreme cold weather possibly supplies destroyed but can be safe
 
+option three - freak out and stay in one spot to die
+
  By the knowledge of the character, he/she creates a makeshift tent out of sticks and branches from trees in cave. option 1
 
 The character needs to stay warm on his way to looking for jet. Opt 2
@@ -20,3 +22,21 @@ food - up +2 bars
 Win: array has to equal - array [5]=(1,2,2,1,1) - - winner creates fire to signal jetz - OPTION 1 is ALWAYS WIN
 
 Losing aka death - array [3]=(2,1,1,2,2) - loser is the one who looks for the jet but it was destroyed dies from cold - OPTION 2 is ALWAYS LOSS
+
+Player: 11111
+
+take player0: 
+if 1: PROGRESS
+if 2: PROGRESS
+if 2: Progress but hurt
+if 1: Progress but heal
+if 1: WIN
+
+take player 1:
+if 1: progress
+if 2: progress
+if 2: progress
+if 2: DEAD
+
+take player2:
+if 1: DEAD
